@@ -17,14 +17,50 @@ https://docs.google.com/document/d/1PAoPz-3vDPFWS5q9RHRb-dC7T4earpFXJW8w6v9wfZ0/
 In the TEDx video Physicality and Conviviality, Tom Igoe explains that physical computing aims to make people think about computation from the point of what people physically do. The first questions they ask when creating projectsare, what is the person going to do? What physical actions are they going to take? One great example is a flight simulator that was created by first creating wings and then using sensors. The speaker actully helped start a line of microcontrollers by the company Arduino that are created for beginners that has open source hardware. These microcnotrollers can be used to make a guitar, art, tools like laser cutters and 3D printers, and many other things. He also explains the benefit of publiv polocy and Peer to Patent, which is a site that was created to help the patent office by allowing others to review patent applications and leave comments. Tom says, "The devices that we make and the devices that we use, what they do matters less than the relationships we make through them and how they change out relationships." and then continues to leave the presentaion by encouraging everyone to get thier hands dirty. I agree that technology should be centered around out bodies, helping us and what we can do. One comment I have from the video is that I have  never looked at coding and hardware in the way of what peoples actions are and what they physically do. I think this is a great way to adapt technology to our abilities and maximize what we can do into our technology instead of just using the tip of our pointer finger, like we do on our phones and touch screens. A follow up question I have for disucssion or for the speaker in the video is, Do we need to replace the technology we have now? Or shoudl we focus on improving it? I am curious what he would answer especially with his ultimate goal to have technology improve and strengthen the relationships we have.
 
 
+## Week 2
+
+### Context
+
+We had two readings this week, the first was an article in the MIT Review by Sanjay Sarma and was titled, The Internet of Things: Roadmap to a Connected World. This article talks about the internet of things, which is the term used for a network of objects embedded in an electronic system that optimizes data collection. Sarma emphasizes that the internet of things is going to affect every aspect of life and that if it’s not regulated that till lead to weakness. He suggests the creation of procedures, standards to control and lists three primary concerns to focus on. I understand that lack of encryption can lead to hacking and data stealing but I am unsure what data will be breached by the objects that are described in the article. For example, he talked about teslas and google cars being examples. But what data will be leaked form these and why is it detrimental? The second reading was titled, The Internet of Things has a dirty little secret: it's not really yours. This article talks about "The internet of shit" which is a twitter account that is all about devices that are being connected to the internet. The author talks about how the internet devices just lead to more problems, often break more easily or need updating more often, and are more complicated. Here is a quote from the author that talks about his view on these devices, "The lure of these devices when presented against the backdrop of old, offline devices is obvious: they could change your whole life and in some ways for me, they have, but the headaches are only beginning, and selling them as life-changers without commitment is irresponsible, and there’s no transparency about how they could change in the future." One question I have for this author is as follows, is there a future where the internet connected devices are beneficial to us? And how will we know when this is, or which ones are? If not, how can we avoid letting everything become internet connected?
+
+
+### Experiments
+
+<!-- List each Platt experiment / Monk recipe outcome, adding notes, photos, schematics, captions to show your work. -->
+Platt experiments:
+
+1. Taste the power
+    a. Text, photos, etc.
+    b. Describe the most important thing you learned (to share in class)
+    c. Write a quiz question (which we will discuss in class)
+
+2. Lets abuse a battery
+    a. Text, photos, etc.
+    b. Describe the most important thing you learned (to share in class)
+    c. Write a quiz question (which we will discuss in class)
+
+3. Your first circuit
+    a. Text, photos, etc.
+    b. Describe the most important thing you learned (to share in class)
+    c. Write a quiz question (which we will discuss in class)
+
+4. Varying the voltage
+    a. Text, photos, etc.
+    b. Describe the most important thing you learned (to share in class)
+    c. Write a quiz question (which we will discuss in class)
+
+5. Lets make a battery
+    a. Text, photos, etc.
+    b. Describe the most important thing you learned (to share in class)
+    c. Write a quiz question (which we will discuss in class)
+
+
 <!--
 BELOW IS A WEEKLY TEMPLATE. COPY/PASTE IT TO ADD A WEEK. SEE ASSIGNMENTS FOR DETAILS 
 https://docs.google.com/document/d/1PAoPz-3vDPFWS5q9RHRb-dC7T4earpFXJW8w6v9wfZ0/edit
 -->
 
-
-
-## Week 2
+## Week 3
 
 ### Context
 
