@@ -30,29 +30,29 @@ We had two readings this week, the first was an article in the MIT Review by San
 Platt experiments:
 
 1. Taste the power
-    a. Text, photos, etc.
-    b. Describe the most important thing you learned (to share in class)
-    c. Write a quiz question (which we will discuss in class)
+    1. Text, photos, etc.
+    1. Describe the most important thing you learned (to share in class)
+    1. Write a quiz question (which we will discuss in class)
 
 2. Lets abuse a battery
-    a. Text, photos, etc.
-    b. Describe the most important thing you learned (to share in class)
-    c. Write a quiz question (which we will discuss in class)
+    1. Text, photos, etc.
+    1. Describe the most important thing you learned (to share in class)
+    1. Write a quiz question (which we will discuss in class)
 
 3. Your first circuit
-    a. Text, photos, etc.
-    b. Describe the most important thing you learned (to share in class)
-    c. Write a quiz question (which we will discuss in class)
+    1. Text, photos, etc.
+    1. Describe the most important thing you learned (to share in class)
+    1. Write a quiz question (which we will discuss in class)
 
 4. Varying the voltage
-    a. Text, photos, etc.
-    b. Describe the most important thing you learned (to share in class)
-    c. Write a quiz question (which we will discuss in class)
+    1. Text, photos, etc.
+    1. Describe the most important thing you learned (to share in class)
+    1. Write a quiz question (which we will discuss in class)
 
 5. Lets make a battery
-    a. Text, photos, etc.
-    b. Describe the most important thing you learned (to share in class)
-    c. Write a quiz question (which we will discuss in class)
+    1. Text, photos, etc.
+    1. Describe the most important thing you learned (to share in class)
+    1. Write a quiz question (which we will discuss in class)
 
 
 <!--
