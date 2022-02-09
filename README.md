@@ -76,12 +76,46 @@ Platt experiments:
     1. You can ignore the resitance of the wires when doing ohm's law calculations.
     1. If you want to combine batteries how do you connect them? Which terminal to which terminal?
 
+## Week 3
+
+### Context
+
+The critical engineering manifesto lists out 10 ideals of what a critical engineer should do or be like. It was written by the Critical Engineering working group. All of the ideals are about going beyond what the machine shows and the obvious parts and advises you to dig deeper. One point that specifically stuck out to me was number 7, "The Critical Engineer observes the space between the production and consumption of technology. Acting rapidly to changes in this space, the Critical Engineer serves to expose moments of imbalance and deception." This one stuck out to me because technology is extremely controlled and driven by money and capitalism and it is important to be aware of this and work to counter it's effect on quality. The next piece we read was an Artist profile on Julian Oliver written by Jason Huff. Julian Oliver was one of the writers of the engineering manifesto. He talks about how engineering is one of the most transformative languages and that it is important to pay attention to the bigger picture as well as the small details. The article also outline a couple more projects Oliver contributed to as well as some questions that address his background and interests. One of the questions that I would ask Oliver is, do you determine what projects you are going to work on based on the company or based on the benefit of the goal?
+
+
+### Experiments
+
+6. Very Simple Switching
+    1. Text, photos, etc.
+    1. Describe the most important thing you learned (to share in class)
+    1. Write a quiz question (which we will discuss in class)
+
+7. Relay Driven LEDs
+    1. Text, photos, etc.
+    1. Describe the most important thing you learned (to share in class)
+    1. Write a quiz question (which we will discuss in class)
+
+8. A Relay Oscillator
+    1. Text, photos, etc.
+    1. Describe the most important thing you learned (to share in class)
+    1. Write a quiz question (which we will discuss in class)
+
+9. Time and Capacitors
+    1. Text, photos, etc.
+    1. Describe the most important thing you learned (to share in class)
+    1. Write a quiz question (which we will discuss in class)
+
+10. Transistor Switching
+    1. Text, photos, etc.
+    1. Describe the most important thing you learned (to share in class)
+    1. Write a quiz question (which we will discuss in class)
+
 <!--
 BELOW IS A WEEKLY TEMPLATE. COPY/PASTE IT TO ADD A WEEK. SEE ASSIGNMENTS FOR DETAILS 
 https://docs.google.com/document/d/1PAoPz-3vDPFWS5q9RHRb-dC7T4earpFXJW8w6v9wfZ0/edit
 -->
 
-## Week 3
+## Week 4
 
 ### Context
 
@@ -99,4 +133,6 @@ https://docs.google.com/document/d/1PAoPz-3vDPFWS5q9RHRb-dC7T4earpFXJW8w6v9wfZ0/
     1. Text, photos, etc.
     1. Describe the most important thing you learned (to share in class)
     1. Write a quiz question (which we will discuss in class)
+
+
 
