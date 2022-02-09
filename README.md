@@ -45,8 +45,10 @@ Platt experiments:
     1. If you smell something smokey, what is the first thing you should disconnect in your circuit?
 
 3. Your first circuit
-    1. ![Screen Shot 2022-02-08 at 8 10 33 PM](https://user-images.githubusercontent.com/70282901/153102695-da3e90d4-37b2-4649-a600-d7722783eebe.png)
-    1. Notes:
+ 
+ ![Screen Shot 2022-02-08 at 8 10 33 PM](https://user-images.githubusercontent.com/70282901/153102695-da3e90d4-37b2-4649-a600-d7722783eebe.png)
+ 
+ 1. Notes:
         
         a.  It does not matter what order you put the pieces in
         
