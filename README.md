@@ -30,13 +30,13 @@ We had two readings this week, the first was an article in the MIT Review by San
 Platt experiments:
 
 1. Taste the power
-    1. Notes:
+   1. Notes:
         
         a. Current is related to the load or the resistance
        
        b. Didn't taste much!
   
-  1. Positive voltage runs from the positive to the negative battery terminal and negative flows the other way.
+   1. Positive voltage runs from the positive to the negative battery terminal and negative flows the other way.
    1. Are you an insulator or a conductor?
 
 2. Lets abuse a battery
