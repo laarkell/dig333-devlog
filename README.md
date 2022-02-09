@@ -30,30 +30,34 @@ We had two readings this week, the first was an article in the MIT Review by San
 Platt experiments:
 
 1. Taste the power
-    1. Text, photos, etc.
-    1. Describe the most important thing you learned (to share in class)
-    1. Write a quiz question (which we will discuss in class)
+    1. Notes:
+        a. Current is related to the load or the resistance
+        b. Didn't taste much!
+   1. Positive voltage runs from the positive to the negative battery terminal and negative flows the other way.
+   1. Are you an insulator or a conductor?
 
 2. Lets abuse a battery
-    1. Text, photos, etc.
-    1. Describe the most important thing you learned (to share in class)
-    1. Write a quiz question (which we will discuss in class)
+    1. ![IMG_8920](https://user-images.githubusercontent.com/70282901/153102839-e7b19cf5-8510-4380-ae01-887755898ae5.jpg)
+    1. Never touch the positive and negative ends of a battery together or it will smoke and smell.
+    1. If you smell something smokey, what is the first thing you should disconnect in your circuit?
 
 3. Your first circuit
-    1. Text, photos, etc.
-    1. Describe the most important thing you learned (to share in class)
-    1. Write a quiz question (which we will discuss in class)
+    1. ![Screen Shot 2022-02-08 at 8 10 33 PM](https://user-images.githubusercontent.com/70282901/153102695-da3e90d4-37b2-4649-a600-d7722783eebe.png)
+    1. Notes:
+        a. 
+        b.
+        c.
+    1. Diodes or LEDs have to face the right direction in order to work properly.
+    1. What do the colors on a resistor mean?
 
 4. Varying the voltage
-    1. Text, photos, etc.
-    1. Describe the most important thing you learned (to share in class)
-    1. Write a quiz question (which we will discuss in class)
-
-5. Lets make a battery
-    1. Text, photos, etc.
-    1. Describe the most important thing you learned (to share in class)
-    1. Write a quiz question (which we will discuss in class)
-
+     1. Notes:
+        a. Potentiometers allow you to vary the voltage
+        b. Turning the knob on the potentiometer changes the resistance
+        c. Doesn't matter if you put the pot before or after the LED
+        d. Ohm's Law: V=IR
+    1. You can ignore the resitance of the wires when doing ohm's law calculations.
+    1. If you want to combine batteries how do you connect them? Which terminal to which terminal?
 
 <!--
 BELOW IS A WEEKLY TEMPLATE. COPY/PASTE IT TO ADD A WEEK. SEE ASSIGNMENTS FOR DETAILS 
