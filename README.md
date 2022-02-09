@@ -53,8 +53,11 @@ Platt experiments:
 4. Varying the voltage
      1. Notes:
         a. Potentiometers allow you to vary the voltage
+        
         b. Turning the knob on the potentiometer changes the resistance
+        
         c. Doesn't matter if you put the pot before or after the LED
+        
         d. Ohm's Law: V=IR
     1. You can ignore the resitance of the wires when doing ohm's law calculations.
     1. If you want to combine batteries how do you connect them? Which terminal to which terminal?
