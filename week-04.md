@@ -1,0 +1,33 @@
+## Week 4
+
+### Context
+
+This week we read two stories by Philip K. Dick. The first one was called, Pay for the Printer which follows the life of Allen Fergesson and charlotte in Detroit. They are living in a future world devastated by war and falling apart. They seem to rely on these alien machines called Biltongs that build and replicate things. It seems the world has fallen apart because people stopped doing things for themselves and just relied on something else to do everything for them. One quote that was striking from the story was from right after Charlotte apartment building was falling down and they realized even the Biltongs were dying, “She was silent. They all knew. The Biltong had become sterile in their struggle to keep the human race alive. Dead eggs, progeny hatched without life…” The second story was titled, The Preserving Machine, and was another science fiction tale all about someone named Doctor Labyrinth who imagines a preserving machine to preserve music in the form of animals. It creates some funky things like a Beethoven beetle. One follow up question I have from this story is what would the world be like if cultures and history were perfectly preserved? What would change if we knew everything about the past? Lastly, I watched part 2 of All Watched over by machines of loving grace. This episode called, the Use and Abuse of Vegetational Concepts, talks all about how we perceive the natural world and how it’s based on misconceptions about ecology and evolution.  
+
+
+### Experiments
+
+6. Very Simple Switching
+    1. Text, photos, etc.
+    1. Describe the most important thing you learned (to share in class)
+    1. Write a quiz question (which we will discuss in class)
+
+7. Relay Driven LEDs
+    1. Text, photos, etc.
+    1. Describe the most important thing you learned (to share in class)
+    1. Write a quiz question (which we will discuss in class)
+
+8. A Relay Oscillator
+    1. Text, photos, etc.
+    1. Describe the most important thing you learned (to share in class)
+    1. Write a quiz question (which we will discuss in class)
+
+9. Time and Capacitors
+    1. Text, photos, etc.
+    1. Describe the most important thing you learned (to share in class)
+    1. Write a quiz question (which we will discuss in class)
+
+10. Transistor Switching
+    1. Text, photos, etc.
+    1. Describe the most important thing you learned (to share in class)
+    1. Write a quiz question (which we will discuss in class)
