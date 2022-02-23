@@ -1,4 +1,3 @@
-[<](README.md)
 
 # Week 5
 
