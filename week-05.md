@@ -30,7 +30,7 @@ Adam Curtis, All Watched Over by Machines of Loving Grace Part 3, (2011)
 ## Experiments
 
 
-### Experiment #6: Name
+### Experiment #6: Very Simple Switching
 
 #### Outcomes & Takeaways
 -
@@ -41,7 +41,7 @@ Adam Curtis, All Watched Over by Machines of Loving Grace Part 3, (2011)
 #### Questions
 -
 
-### Experiment #7: Name
+### Experiment #7: Investigating a Relay
 
 #### Outcomes & Takeaways
 -
@@ -52,7 +52,7 @@ Adam Curtis, All Watched Over by Machines of Loving Grace Part 3, (2011)
 #### Questions
 -
 
-### Experiment #8: Name
+### Experiment #8: A Relay Oscillator
 
 #### Outcomes & Takeaways
 -
@@ -63,7 +63,7 @@ Adam Curtis, All Watched Over by Machines of Loving Grace Part 3, (2011)
 #### Questions
 -
 
-### Experiment #9: Name
+### Experiment #9: Time and Capacitors
 
 #### Outcomes & Takeaways
 -
@@ -74,7 +74,7 @@ Adam Curtis, All Watched Over by Machines of Loving Grace Part 3, (2011)
 #### Questions
 -
 
-### Experiment #10: Name
+### Experiment #10: Transistor Switching
 
 #### Outcomes & Takeaways
 -
