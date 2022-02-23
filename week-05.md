@@ -33,24 +33,32 @@ Adam Curtis, All Watched Over by Machines of Loving Grace Part 3, (2011)
 ### Experiment #6: Very Simple Switching
 
 #### Outcomes & Takeaways
--
+- When both buttons are pressed there is complete connection and the LED lights up
+- when no buttons or one button is pressed then the LED doesn't light up
+- The buttons either have no connection or have complete connection between the two connections to the button
 
 #### Comments & Variations
--
+- We only used the button switches becasue we didn't have the toggle swiches
+- Therefore we used less connections as seen in the image below
 
 #### Questions
--
+-Is there a way to connect the two outside connections on the toggle switch to eachother?
 
 ### Experiment #7: Investigating a Relay
 
 #### Outcomes & Takeaways
--
+- We determined there were certian connections that needed to be made on the relay in order to have the multimeter beep when the button was pressed
+- There were some connections when the multimeter beeped no matter what and some when it didnt beep at all, therfore only certian pins in the relay are connected
+- We set the multimeter on continuity which I understand to mean that there is something running through the circuit (voltage, current) and it beeps when it's continuous
 
 #### Comments & Variations
--
+- This experiment was tricky, our relay only had 5 total pins and it took us a while to determine which pins need to be connected to be continuous when the button is pressed
+- The inside of a relay is shown below and this quote explains all the parts, "The coil, A, generates a magnetic attraction pulling lever B downward. A plastic extension, C, pushes outward against exible metal strips and moves the poles of the relay, D, between the contacts."
+- ![Screen Shot 2022-02-23 at 3 18 52 PM](https://user-images.githubusercontent.com/70282901/155401560-f8e00df5-d47f-4057-a52d-e8feff2e85e2.png)
+
 
 #### Questions
--
+- What would a relay be used for? Whats a common applicaiton of it?
 
 ### Experiment #8: A Relay Oscillator
 
