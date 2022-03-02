@@ -56,3 +56,9 @@ Platt experiments:
    
     1. You can ignore the resitance of the wires when doing ohm's law calculations.
     1. If you want to combine batteries how do you connect them? Which terminal to which terminal?
+
+5. Lets make a battery!
+- Didn't have any lemons so I didnt make it but it was interesting to read!
+- When zinc reacts chemically with an acid, like lemon juice, it makes free electrons and conducts electricity
+- Bottled lemon juice works just as well as fresh lemons
+- 
