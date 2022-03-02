@@ -32,6 +32,8 @@ Adam Curtis, All Watched Over by Machines of Loving Grace Part 3, (2011)
 
 ### Experiment #6: Very Simple Switching
 
+![IMG_8988](https://user-images.githubusercontent.com/70282901/156276956-e0fa647a-7924-4036-b58a-bb15e0882a0f.jpg)
+
 #### Outcomes & Takeaways
 - When both buttons are pressed there is complete connection and the LED lights up
 - when no buttons or one button is pressed then the LED doesn't light up
@@ -46,6 +48,8 @@ Adam Curtis, All Watched Over by Machines of Loving Grace Part 3, (2011)
 
 ### Experiment #7: Investigating a Relay
 
+![IMG_8989](https://user-images.githubusercontent.com/70282901/156277017-c6536cfc-b10a-4bfe-87f3-823c1cb4d2e2.jpg)
+
 #### Outcomes & Takeaways
 - We determined there were certian connections that needed to be made on the relay in order to have the multimeter beep when the button was pressed
 - There were some connections when the multimeter beeped no matter what and some when it didnt beep at all, therfore only certian pins in the relay are connected
@@ -58,37 +62,57 @@ Adam Curtis, All Watched Over by Machines of Loving Grace Part 3, (2011)
 
 
 #### Questions
-- What would a relay be used for? Whats a common applicaiton of it?
+- What would a relay be used for? Whats a common application of it?
 
 ### Experiment #8: A Relay Oscillator
 
 #### Outcomes & Takeaways
--
+- A relay has two points that are connected and then the other 3 are the 2 points of a switch as shown by the image:
+- ![Screen Shot 2022-03-01 at 8 28 19 PM](https://user-images.githubusercontent.com/70282901/156277377-56016702-f502-4d96-9ada-8f04c71cd270.png)
+- The relay can oscillate between it's two states buzzing back and forth
+- A capacitor can be described as a tiny rechargable battery, it charges and discharges
+![IMG_8991](https://user-images.githubusercontent.com/70282901/156278004-f90874f6-1fef-4d7d-849d-da107aa5f2b7.jpg)
 
 #### Comments & Variations
--
+- Our relay only had 5 total pins, 3 for the switch and 2 that were connected so we had to alter from the diagram in the book
+- 5 steps to find errors: check voltages, check placement, check connection, check component orientation, and check for damage!
+- Capacitance is measured in Farads
 
 #### Questions
--
+- How big can capacitors get? 
+- If the breadboard is burned, is the whole thing no good?
 
 ### Experiment #9: Time and Capacitors
 
+![Screen Shot 2022-03-01 at 8 36 55 PM](https://user-images.githubusercontent.com/70282901/156278444-f08e6f45-fc91-4af6-b9ec-99850c877f55.png)
+
 #### Outcomes & Takeaways
--
+- The speed that a capacitor charges varies base on the resistant of the circuit, reffered to as the time constant where T=RC and R is the resistance, and c is the capacitance
+- The charging of a capacitor is not constant, it slows down as charge builds up and looks liek the graph below
+- ![Screen Shot 2022-03-01 at 8 40 18 PM](https://user-images.githubusercontent.com/70282901/156278437-60ba77b2-827c-46ba-812e-309cdf50aa4a.png)
+
 
 #### Comments & Variations
--
+- A capacitor blocks Direct Current (DC voltage)
+- The button on the capacitor removes any charge built up on it
+- Capacitors work both ways, current can go through both ways 
 
 #### Questions
--
+- Can you blow out a capacitor? In other words, can you apply too much voltage?
 
 ### Experiment #10: Transistor Switching
 
+![Screen Shot 2022-03-01 at 8 44 41 PM](https://user-images.githubusercontent.com/70282901/156278801-422993a3-2c55-479c-81e3-5cbd942f3867.png)
+
 #### Outcomes & Takeaways
--
+- 2N2222 transistor is the most widely used semiconductor of all time
+- Transistors have 3 components: Collector, Base, and Emitter
+- There are PNP and NPN transistors: NPN are activated by positive voltage on the base relative to the emitter and PNP are activated by negative voltage on the base relative to the emitter
+- Potentiometer can be used to create a voltage divider by varying internal resistance, to provide a full range of voltages
 
 #### Comments & Variations
--
+- Never get into the habit of letting electricity run through you (even in our small circuits)
+- Transistors are easily damaged and fragile
 
 #### Questions
--
+- Since transistors require power to perform their function, what do they do with no power? When would it matter that they dont need power?
