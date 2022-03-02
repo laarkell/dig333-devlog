@@ -10,7 +10,7 @@ We had two readings this week, the first was an article in the MIT Review by San
 <!-- List each Platt experiment / Monk recipe outcome, adding notes, photos, schematics, captions to show your work. -->
 Platt experiments:
 
-1. Taste the power
+#### 1. Taste the power
 
 Notes:     
 - Current is related to the load or the resistance
@@ -22,7 +22,7 @@ Takeaway:
 Question:
 - Are you an insulator or a conductor?
 
-2. Lets abuse a battery
+#### 2. Lets abuse a battery
 
 ![Screen Shot 2022-02-08 at 8 21 54 PM](https://user-images.githubusercontent.com/70282901/153103799-0ff97fc4-e60d-4067-8c76-9b6bfee938a9.png)
   
@@ -32,7 +32,7 @@ Takeaway:
 Question:
 - If you smell something smokey, what is the first thing you should disconnect in your circuit?
 
-3. Your first circuit
+#### 3. Your first circuit
 
 ![Screen Shot 2022-02-08 at 8 10 33 PM](https://user-images.githubusercontent.com/70282901/153102695-da3e90d4-37b2-4649-a600-d7722783eebe.png)
 
@@ -49,7 +49,7 @@ Takeaway:
 Question:
 - What do the colors on a resistor mean?
 
-4. Varying the voltage
+#### 4. Varying the voltage
 
 Notes:       
 - Potentiometers allow you to vary the voltage
@@ -64,7 +64,7 @@ Takeaway:
 Question:
 - If you want to combine batteries how do you connect them? Which terminal to which terminal?
 
-5. Lets make a battery!
+#### 5. Lets make a battery!
 - Didn't have any lemons so I didnt make it but it was interesting to read!
 - When zinc reacts chemically with an acid, like lemon juice, it makes free electrons and conducts electricity
 - Bottled lemon juice works just as well as fresh lemons
