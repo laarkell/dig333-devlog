@@ -36,10 +36,8 @@ becomes socially and politically palatable."
 
 #### Questions
 -
-
-![IMG_9049](https://user-images.githubusercontent.com/70282901/156446681-8db71737-813f-4fee-a5c8-480740110458.jpg)
-![IMG_9050](https://user-images.githubusercontent.com/70282901/156446685-73379f98-0b7a-421b-87ce-501d95304ddd.jpg)
-
+![Screen Shot 2022-03-02 at 3 52 39 PM](https://user-images.githubusercontent.com/70282901/156447792-db24ba5b-48fd-47f0-8e59-011a68deb5de.png)
+![Screen Shot 2022-03-02 at 3 52 27 PM](https://user-images.githubusercontent.com/70282901/156447799-198aae6d-1778-4423-8fb0-b5055d074658.png)
 
 
 ### Experiment #12: Joining two wires together
@@ -48,7 +46,7 @@ becomes socially and politically palatable."
 - The solder melts almost instantly when the iron touches it and it sort of bubbles until it hardens
 - I tested the battery connections with an LED to be sure the connection was correct
 
-![IMG_9051](https://user-images.githubusercontent.com/70282901/156446673-dd10de93-3c70-46f8-b313-a52f496ee3c0.jpg)
+![Screen Shot 2022-03-02 at 3 52 33 PM](https://user-images.githubusercontent.com/70282901/156447824-fe366947-b725-47a3-98f6-7d7c95be6368.png)
 
 #### Comments & Variations
 - I have soldered before but I have surprisingly never done two wires! I have only attached wires to a arduino
