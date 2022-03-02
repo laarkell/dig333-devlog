@@ -24,7 +24,43 @@ becomes socially and politically palatable."
 ## Experiments
 
 
-### Experiment #: Name
+### Experiment #11: Light and Sound
+
+#### Outcomes & Takeaways
+- The first circuit we created made an LED flash on for one second and off for another second
+- Transistors switch from on and off depending on the direction that the current flows (b,e or c)
+
+#### Comments & Variations
+- Having a symmetric circuit is important for the first one in this experiemnt so that the on and off of the LED is equal
+- 
+
+#### Questions
+-
+
+![IMG_9049](https://user-images.githubusercontent.com/70282901/156446681-8db71737-813f-4fee-a5c8-480740110458.jpg)
+![IMG_9050](https://user-images.githubusercontent.com/70282901/156446685-73379f98-0b7a-421b-87ce-501d95304ddd.jpg)
+
+
+
+### Experiment #12: Joining two wires together
+
+#### Outcomes & Takeaways
+- The solder melts almost instantly when the iron touches it and it sort of bubbles until it hardens
+- I tested the battery connections with an LED to be sure the connection was correct
+
+![IMG_9051](https://user-images.githubusercontent.com/70282901/156446673-dd10de93-3c70-46f8-b313-a52f496ee3c0.jpg)
+
+#### Comments & Variations
+- I have soldered before but I have surprisingly never done two wires! I have only attached wires to a arduino
+- In class we attached a single wire to the battery conection wire that had many small wires in it
+- We didnt get to use the heat shrink wrap becasue we didn't have a heater
+
+#### Questions
+-
+
+
+
+### Experiment #13: Roasting an LED
 
 #### Outcomes & Takeaways
 -
