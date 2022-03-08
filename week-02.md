@@ -33,7 +33,6 @@ Question:
 
 ![Screen Shot 2022-02-08 at 8 10 33 PM](https://user-images.githubusercontent.com/70282901/153102695-da3e90d4-37b2-4649-a600-d7722783eebe.png)
 
-
 Notes:        
 - It does not matter what order you put the pieces in
 - Resistors have a color code that allows you to determine their resistance
@@ -66,42 +65,65 @@ Question:
 - When zinc reacts chemically with an acid, like lemon juice, it makes free electrons and conducts electricity
 - Bottled lemon juice works just as well as fresh lemons
 
-
 ### Monk Chapter 1 - Setup and Management
 
 #### Recipes and outcomes:
 ##### 1.1 Selecting a Model of Raspberry Pi
 1. Explain some uses for different Raspberry Pis (Nano, Zero, V3, V4): 
-3.  List common features of a RPi 3 or 4 Model B:
+- Zero is good for a single purpose and projects that require a tiny size, like a web camera, smart home device, can run the Apache server software, no ethernet, no SATA ports, doesn’t have an in-built GPIO header with it
+- V3 is good for projects that only demand passive cooling, 
+- V4 is good for machine learning, watching videos, build a robot, an educational tool for students and teachers, has quad-core 64-bit processor coupled with 4 GB RAM
+2. List common features of a RPi 3 or 4 Model B:
+- 1.5-GHz, quad-core processor with 8/4/2 GB RAM
+- USB 3.0 and 2.0 ports
+- ethernet port
+- micro-HDMI connectors
+- three to four times faster than any previous Raspberry Pi
 ##### 1.3 Enclosing a Raspberry Pi
-1. Explain why you need an enclosure
+1. Explain why you need an enclosure:
+- case can act as a heat sink
+- protects the sensors and chips that are exposed on the pi
+- elimianted static electricity from affecting it 
 ##### 1.4 Selecting a Power Supply
-1. Recall the standard operating voltage of a RPi
-2. Describe the safe operating current (A) of a RPi, as well as some considerations.
-3. Describe the potential downsides of using too little current or too much.
+1. Recall the standard operating voltage of a RPi: **5V**
+3. Describe the safe operating current (A) of a RPi: **2A**
+4. Describe the potential downsides of using too little current or too much
+- Could harm the Pi if you use too much, and if you don't use enough it might not run properly
 ##### 1.5 Selecting an Operating System 
-Recall there are custom operating systems for media centers, retro gaming, etc. 
+- [x] Recall there are custom operating systems for media centers, retro gaming, etc.
 ##### 1.7 Installing an Operating System Without NOOBS
- *NOOBs is no longer supported. We will be using Raspberry Pi OS.*
-1. Explain why it is best to avoid NOOBS, Pi Bakery, and other "pre installed" SD cards and non-RPI Foundation options.
-2. Demonstrate how to install Raspberry Pi OS using Raspberry Pi Imager. 
+1. Explain why it is best to avoid NOOBS, Pi Bakery, and other "pre installed" SD cards and non-RPI Foundation options:
+-  if you want to use a nonstandard operating system or if you want the disk image to be on something other than an SD card like USB drive
+2. Demonstrate how to install Raspberry Pi OS using Raspberry Pi Imager:
+- download imager, insert SD card, Open imager, configure settings and export iOS to SD card
 ##### 1.12 Using a Composite Video Monitor/TV 
-1. Describe the two video out signals on a RPi
+1. Describe the two video out signals on a RPi:
+- HDMI, better quality, 
+- composite video from the audio jack,
 ##### 1.14. Maximizing Performance
-1. Describe the pros and cons of "overclocking"
-2. Demonstrate how to configure your RPI with sudo raspi-config
+1. Describe the pros and cons of "overclocking":
+- con: could make it overheat, draws more current
+- pro: runs faster, increases performance
+3. Demonstrate how to configure your RPI with sudo raspi-config:
+- ![Screen Shot 2022-03-07 at 9 16 53 PM](https://user-images.githubusercontent.com/70282901/157152982-c7acee94-82d4-4bed-9a38-d0771fd59e52.png)
 ##### 1.15. Changing Your Password
 - [x] Use raspi-config to change your password
+![Screen Shot 2022-03-07 at 9 17 18 PM](https://user-images.githubusercontent.com/70282901/157153026-a448ed86-512f-43b6-9332-b5380f279dc1.png)
 ##### 1.16. Shutting Down Your Raspberry Pi
-1. Explain what sudo is and why you would use it.
-2. Demonstrate how to reboot from the command line
-3. Explain why you shouldn't pull the power plug on the (any) computer.
+1. Explain what sudo is and why you would use it: stands for super user do, and is like the administrative power and it is used to perform important administrative tasks like shutting down
+2. Demonstrate how to reboot from the command line:
+![Screen Shot 2022-03-07 at 9 20 29 PM](https://user-images.githubusercontent.com/70282901/157153405-2df4bdba-a157-4ffe-8259-8af94f1bfba3.png)
+4. Explain why you shouldn't pull the power plug on the (any) computer:
+- pulling out could lead to file corruption, risk data loss, could damage computer
 ##### 1.17. Installing the Raspberry Pi Camera Module
 *Just skim this section.*
-1. Explain how to install and enable the Pi Camera
-2. View the help menu for raspistill
-3. Use raspistill to take a picture via the CLI
-*Do this with a camerapi*
+1. Explain how to install and enable the Pi Camera:
+- ribbon cable attaches to a special connector
+- use the Raspberry Pi Configuration tool or raspi-config on terminal to configure camera module 
+- command to take pictures is: $ raspistill -o image1.jpg
+
+- [x] View the help menu for raspistill
+- [x] Use raspistill to take a picture via the CLI
 ##### 1.18. Using Bluetooth
 *Just skim this section*
 
