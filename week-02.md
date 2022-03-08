@@ -8,29 +8,23 @@ We had two readings this week, the first was an article in the MIT Review by San
 ### Platt Experiments 1-5
 
 #### 1. Taste the power
-
 Notes:     
 - Current is related to the load or the resistance
 - Didn't taste much!
-
 Takeaway:
 - Positive voltage runs from the positive to the negative battery terminal and negative flows the other way.
-
 Question:
 - Are you an insulator or a conductor?
 
 #### 2. Lets abuse a battery
-
 ![Screen Shot 2022-02-08 at 8 21 54 PM](https://user-images.githubusercontent.com/70282901/153103799-0ff97fc4-e60d-4067-8c76-9b6bfee938a9.png)
-  
+
 Takeaway:
 - Never touch the positive and negative ends of a battery together or it will smoke and smell.
-
 Question:
 - If you smell something smokey, what is the first thing you should disconnect in your circuit?
 
 #### 3. Your first circuit
-
 ![Screen Shot 2022-02-08 at 8 10 33 PM](https://user-images.githubusercontent.com/70282901/153102695-da3e90d4-37b2-4649-a600-d7722783eebe.png)
 
 Notes:        
@@ -38,10 +32,8 @@ Notes:
 - Resistors have a color code that allows you to determine their resistance
 - Multimeter can measure voltage, current, and resistance
 - Resistor is used to block some voltage from the LED
-   
 Takeaway:
 - Diodes or LEDs have to face the right direction in order to work properly.
-
 Question:
 - What do the colors on a resistor mean?
 
@@ -53,10 +45,8 @@ Notes:
 - Doesn't matter if you put the pot before or after the LED
 - Ohm's Law: V=IR
 -  Amount of voltage changes the brightness of the LED, more the brighter, but not too much!
- 
 Takeaway:
 - You can ignore the resitance of the wires when doing ohm's law calculations
-
 Question:
 - If you want to combine batteries how do you connect them? Which terminal to which terminal?
 
