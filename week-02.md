@@ -65,3 +65,43 @@ Question:
 - Didn't have any lemons so I didnt make it but it was interesting to read!
 - When zinc reacts chemically with an acid, like lemon juice, it makes free electrons and conducts electricity
 - Bottled lemon juice works just as well as fresh lemons
+
+
+### Monk Chapter 1 - Setup and Management
+
+#### Recipes and outcomes:
+##### 1.1 Selecting a Model of Raspberry Pi
+1. Explain some uses for different Raspberry Pis (Nano, Zero, V3, V4): 
+3.  List common features of a RPi 3 or 4 Model B:
+##### 1.3 Enclosing a Raspberry Pi
+1. Explain why you need an enclosure
+##### 1.4 Selecting a Power Supply
+1. Recall the standard operating voltage of a RPi
+2. Describe the safe operating current (A) of a RPi, as well as some considerations.
+3. Describe the potential downsides of using too little current or too much.
+##### 1.5 Selecting an Operating System 
+Recall there are custom operating systems for media centers, retro gaming, etc. 
+##### 1.7 Installing an Operating System Without NOOBS
+ *NOOBs is no longer supported. We will be using Raspberry Pi OS.*
+1. Explain why it is best to avoid NOOBS, Pi Bakery, and other "pre installed" SD cards and non-RPI Foundation options.
+2. Demonstrate how to install Raspberry Pi OS using Raspberry Pi Imager. 
+##### 1.12 Using a Composite Video Monitor/TV 
+1. Describe the two video out signals on a RPi
+##### 1.14. Maximizing Performance
+1. Describe the pros and cons of "overclocking"
+2. Demonstrate how to configure your RPI with sudo raspi-config
+##### 1.15. Changing Your Password
+- [x] Use raspi-config to change your password
+##### 1.16. Shutting Down Your Raspberry Pi
+1. Explain what sudo is and why you would use it.
+2. Demonstrate how to reboot from the command line
+3. Explain why you shouldn't pull the power plug on the (any) computer.
+##### 1.17. Installing the Raspberry Pi Camera Module
+*Just skim this section.*
+1. Explain how to install and enable the Pi Camera
+2. View the help menu for raspistill
+3. Use raspistill to take a picture via the CLI
+*Do this with a camerapi*
+##### 1.18. Using Bluetooth
+*Just skim this section*
+
