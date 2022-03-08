@@ -29,13 +29,16 @@ becomes socially and politically palatable."
 #### Outcomes & Takeaways
 - The first circuit we created made an LED flash on for one second and off for another second
 - Transistors switch from on and off depending on the direction that the current flows (b,e or c)
+- Made adjustments and removed parts to create second circuit which functioned as an ultra-simple sound synthesizer
 
 #### Comments & Variations
 - Having a symmetric circuit is important for the first one in this experiemnt so that the on and off of the LED is equal
-- 
+- Speaker was extremely quiet but we did hear noise 
 
 #### Questions
--
+- They described how you change the pitch of the sound from the speaker, is there a way to change the volume?
+
+
 ![Screen Shot 2022-03-02 at 3 52 39 PM](https://user-images.githubusercontent.com/70282901/156447792-db24ba5b-48fd-47f0-8e59-011a68deb5de.png)
 ![Screen Shot 2022-03-02 at 3 52 27 PM](https://user-images.githubusercontent.com/70282901/156447799-198aae6d-1778-4423-8fb0-b5055d074658.png)
 
@@ -54,17 +57,19 @@ becomes socially and politically palatable."
 - We didnt get to use the heat shrink wrap becasue we didn't have a heater
 
 #### Questions
--
-
+- Can a circuit get hot enough that the solder material melts? What if the extermal conditions are really hot? If so are there alternative materials?
 
 
 ### Experiment #13: Roasting an LED
 
 #### Outcomes & Takeaways
--
+- lots of current passing through the LED created excessive heat which breaks the component
+- plastic is not a good thermal conductor but metal is
+- You can use an aliigator clip as a heat sink in order to pull the heat away from delicate components
 
 #### Comments & Variations
--
+- Its always safer to use a heat sink to protect components especially when building a complicated circuit
+- We only had acess to one level power of soldering iron but I was able to see the affect of the heat sink by feeling the aligator clip and by everntually burnign out the LED
 
 #### Questions
--
+- What other materials are good heat sinks? Can you build a heat sink into your circuit?
