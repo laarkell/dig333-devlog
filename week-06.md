@@ -129,8 +129,16 @@ becomes socially and politically palatable."
 #### 9.0. Introduction
 #### 9.1. Finding Your Way Around the GPIO Connector
 1. Explain the difference between 26- and 40-pin layouts.
+- top 26 pins are same in both 26 and 40 pin layouts so that you can use software built for 26 pins
+- extra pins on the 40 have 3 ground pins and 9 extra GPIO pins
 2. Add a printable GPIO pin template to your RPi. 
+
+![Screen Shot 2022-03-09 at 3 52 49 PM](https://user-images.githubusercontent.com/70282901/157533985-89a98a0a-164e-4973-8720-14702fac51e4.png)
+
 3. Describe the difference between digital vs. analog I/O pins
+- an analog pin can take on a number of values or voltages whereas a digital pin only has 1,0 or high and low
+- the RPi only had digital pins but you cna convert them to analog with a converter of sorts
+
 #### 9.2. Keeping Your Raspberry Pi Safe When Using the GPIO connector
 1. List important tips for keeping RPi safe when using GPIO.
 #### 9.8. Using a Breadboard with Jumper Leads
