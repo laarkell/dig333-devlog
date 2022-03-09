@@ -75,23 +75,69 @@ becomes socially and politically palatable."
 - What other materials are good heat sinks? Can you build a heat sink into your circuit?
 
 
-### Chapter 6 - Python Lists and Dictionaries, Recipes and outcomes:
-#### 6.0. Introduction
-#### 6.1. Creating a List
-#### 6.2. Accessing Elements of a List
-#### 6.3. Finding the Length of a List
-#### 6.4. Adding Elements to a List
-#### 6.5. Removing Elements from a List
-#### 6.6. Creating a List by Parsing a String
-#### 6.7. Iterating Over a List
-#### 6.8. Enumerating a List
-#### 6.9. Sorting a List
-#### 6.10. Cutting Up a List
-#### 6.11. Applying a Function to a List
-#### 6.12. Creating a Dictionary
-#### 6.13. Accessing a Dictionary
-#### 6.14. Removing Entries from a Dictionary
-#### 6.15. Iterating Over Dictionaries
+### Monk Chapter 6 - Python Lists and Dictionaries, Recipes and outcomes:
 
-### Chapter 8- GPIO
-- 
+#### 6.1. Creating a List
+- format to create a list: >>> a = [34, 'Fred', 12, False, 72.3]
+#### 6.2. Accessing Elements of a List
+- >>> a = [34, 'Fred', 12, False, 72.3], >>> a[1], Fred
+#### 6.3. Finding the Length of a List
+- len(list)
+#### 6.4. Adding Elements to a List
+- a.append("new item")
+- a.insert(2, "new2")
+- a.extend(b) where b is another lists that is added to the end of a
+#### 6.5. Removing Elements from a List
+- a.pop()removes last element in list a
+- a.pop(0) removes element in 0 position
+#### 6.6. Creating a List by Parsing a String
+- >>> "abc def ghi".split()
+- >>> "abc--de--ghi".split('--')
+#### 6.7. Iterating Over a List
+- >>> a = [34, 'Fred', 12, False, 72.3]
+- >>> for x in a:
+- ...     print(x)
+- 34...
+#### 6.8. Enumerating a List
+- >>> a = [34, 'Fred', 12, False, 72.3]
+- >>> for (i, x) in enumerate(a):
+- ...     print(i, x)
+- (0, 34)
+#### 6.9. Sorting a List
+- >>> a.sort()
+#### 6.10. Cutting Up a List
+- >>> l = ["a", "b", "c", "d"]
+- >>> l[1:3]
+- ['b', 'c']
+#### 6.11. Applying a Function to a List
+- >>> [x.upper() for x in l] 
+#### 6.12. Creating a Dictionary
+- to create a dictionary, you use the {} notation 
+- a = {'key1':'value1', 'key2':2}
+#### 6.13. Accessing a Dictionary
+- a['key1']
+- 'value 1'
+#### 6.14. Removing Entries from a Dictionary
+- phone_numbers.pop('Jane')
+#### 6.15. Iterating Over Dictionaries
+- “for name in phone_numbers:
+- print(name)
+
+
+### Monk Chapter 9 - Hardware Basics, Basic recipes for setting up Raspberry Pi general-purpose input/output (GPIO) connector
+
+#### 9.0. Introduction
+#### 9.1. Finding Your Way Around the GPIO Connector
+1. Explain the difference between 26- and 40-pin layouts.
+2. Add a printable GPIO pin template to your RPi. 
+3. Describe the difference between digital vs. analog I/O pins
+#### 9.2. Keeping Your Raspberry Pi Safe When Using the GPIO connector
+1. List important tips for keeping RPi safe when using GPIO.
+#### 9.8. Using a Breadboard with Jumper Leads
+1. Connect a breadboard to the RPi with jumpers
+#### 9.9. Using a Breadboard with a Pi Cobbler
+1. Explain the benefits of a Pi Cobbler-type connector
+#### 9.10. Using a Raspberry Squid
+1. Describe an RPi Squid
+#### 9.14. Powering a Raspberry Pi with Batteries
+1. Describe considerations when powering a RPi with batteries.
