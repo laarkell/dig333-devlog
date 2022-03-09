@@ -61,3 +61,31 @@ Also see: learn-computing/slides/files-folders.html#6
 - https://github.com/simonmonk/raspberrypi_cookbook_ed3 
 #### 3.23 to 3.240
 - Skim or return to the following sections when needed.
+
+
+### Chapter 5 - Python Basics, Recipes and outcomes:
+#### 5.0. Introduction
+#### 5.1. Deciding Between Python 2 and Python 3
+#### 5.2. Editing Python Programs with Mu
+#### 5.3. Using the Python Console
+#### 5.4. Running Python Programs from the Terminal
+#### 5.5. Assigning Names to Values (Variables)
+#### 5.6. Displaying Output
+#### 5.7. Reading User Input
+#### 5.8. Arithmetic
+#### 5.9. Creating Strings
+#### 5.10. Concatenating (Joining) Strings
+#### 5.11. Converting Numbers into Strings
+#### 5.12. Converting Strings into Numbers
+#### 5.13. Finding the Length of a String
+#### 5.14. Finding the Position of One String Within Another
+#### 5.15. Extracting Part of a String
+#### 5.16. Replacing One String of Characters with Another Within a String
+#### 5.17. Converting a String to Uppercase or Lowercase
+#### 5.18. Running Commands Conditionally
+#### 5.19. Comparing Values
+#### 5.20. Logical Operators
+#### 5.21. Repeating Instructions an Exact Number of Times
+#### 5.22. Repeating Instructions Until Some Condition Changes
+#### 5.23. Breaking Out of a Loop
+#### 5.24. Defining a Function in Python
