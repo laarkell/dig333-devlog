@@ -1,10 +1,5 @@
-[<](README.md)
 
-<!-- COPY / USE THIS TEMPLATE FOR EACH WEEK -->
-
-
-
-# Week 00
+# Week 07
 
 
 
