@@ -73,3 +73,25 @@ becomes socially and politically palatable."
 
 #### Questions
 - What other materials are good heat sinks? Can you build a heat sink into your circuit?
+
+
+### Chapter 6 - Python Lists and Dictionaries, Recipes and outcomes:
+#### 6.0. Introduction
+#### 6.1. Creating a List
+#### 6.2. Accessing Elements of a List
+#### 6.3. Finding the Length of a List
+#### 6.4. Adding Elements to a List
+#### 6.5. Removing Elements from a List
+#### 6.6. Creating a List by Parsing a String
+#### 6.7. Iterating Over a List
+#### 6.8. Enumerating a List
+#### 6.9. Sorting a List
+#### 6.10. Cutting Up a List
+#### 6.11. Applying a Function to a List
+#### 6.12. Creating a Dictionary
+#### 6.13. Accessing a Dictionary
+#### 6.14. Removing Entries from a Dictionary
+#### 6.15. Iterating Over Dictionaries
+
+### Chapter 8- GPIO
+- 
