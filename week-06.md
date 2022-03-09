@@ -78,9 +78,9 @@ becomes socially and politically palatable."
 ### Monk Chapter 6 - Python Lists and Dictionaries, Recipes and outcomes:
 
 #### 6.1. Creating a List
-- format to create a list: >>> a = [34, 'Fred', 12, False, 72.3]
+- format to create a list: a = [34, 'Fred', 12, False, 72.3]
 #### 6.2. Accessing Elements of a List
-- >>> a = [34, 'Fred', 12, False, 72.3], >>> a[1], Fred
+- a = [34, 'Fred', 12, False, 72.3], a[1], Fred
 #### 6.3. Finding the Length of a List
 - len(list)
 #### 6.4. Adding Elements to a List
@@ -91,26 +91,26 @@ becomes socially and politically palatable."
 - a.pop()removes last element in list a
 - a.pop(0) removes element in 0 position
 #### 6.6. Creating a List by Parsing a String
-- >>> "abc def ghi".split()
-- >>> "abc--de--ghi".split('--')
+- "abc def ghi".split()
+- "abc--de--ghi".split('--')
 #### 6.7. Iterating Over a List
-- >>> a = [34, 'Fred', 12, False, 72.3]
-- >>> for x in a:
-- ...     print(x)
-- 34...
+- a = [34, 'Fred', 12, False, 72.3]
+- for x in a:
+- print(x)
+- 34
 #### 6.8. Enumerating a List
-- >>> a = [34, 'Fred', 12, False, 72.3]
-- >>> for (i, x) in enumerate(a):
-- ...     print(i, x)
+- a = [34, 'Fred', 12, False, 72.3]
+- for (i, x) in enumerate(a):
+- print(i, x)
 - (0, 34)
 #### 6.9. Sorting a List
-- >>> a.sort()
+- a.sort()
 #### 6.10. Cutting Up a List
-- >>> l = ["a", "b", "c", "d"]
-- >>> l[1:3]
+- l = ["a", "b", "c", "d"]
+- l[1:3]
 - ['b', 'c']
 #### 6.11. Applying a Function to a List
-- >>> [x.upper() for x in l] 
+- [x.upper() for x in l] 
 #### 6.12. Creating a Dictionary
 - to create a dictionary, you use the {} notation 
 - a = {'key1':'value1', 'key2':2}
