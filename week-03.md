@@ -13,8 +13,6 @@ The critical engineering manifesto lists out 10 ideals of what a critical engine
 1. Demonstrate two different methods to find your IP address 
 - $ hostname -I
 - $ ifconfig
-#### 2.3. Setting a Static IP Address
-*Just skim this section.*
 #### 2.4. Setting the Network Name of a Raspberry Pi
 1. Explain how to change the hostname of a RPi
 - $ sudo raspi-config
@@ -32,7 +30,7 @@ The critical engineering manifesto lists out 10 ideals of what a critical engine
 1. Demonstrate how to connect and disconnect to a RPi via SSH
 - $ sudo raspi-config
 - $ ssh yourIPAdress -l pi
-3. Demonstrate how to perform basic filesystem task over SSH
+2. Demonstrate how to perform basic filesystem task over SSH
 - once in you can use cd, ls and basic terminal commands to move and create fiels in pi over ssh
 
 ### Tinker Cad Tips and Tricks:
