@@ -16,7 +16,7 @@
 
 ![Screen Shot 2022-03-09 at 3 18 36 PM](https://user-images.githubusercontent.com/70282901/157528123-a5866285-2803-4adb-8104-dac10ca03924.png)
 
-![IMG_9108](https://user-images.githubusercontent.com/70282901/157580514-94f0b564-70f3-47a5-8608-ed804be48fce.jpg)
+![Screen Shot 2022-03-09 at 10 04 59 PM](https://user-images.githubusercontent.com/70282901/157580579-bb7bd896-f60a-4d10-82de-e2485b51f693.png)
 
 - slide 26 and 27: turn on and off LED manually:
 
