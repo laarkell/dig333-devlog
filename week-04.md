@@ -124,29 +124,27 @@ This week we read two stories by Philip K. Dick. The first one was called, Pay f
 - Skim or return to the following sections when needed.
 
 
-### Chapter 5 - Python Basics, Recipes and outcomes:
-#### 5.0. Introduction
-#### 5.1. Deciding Between Python 2 and Python 3
-#### 5.2. Editing Python Programs with Mu
-#### 5.3. Using the Python Console
-#### 5.4. Running Python Programs from the Terminal
-#### 5.5. Assigning Names to Values (Variables)
-#### 5.6. Displaying Output
-#### 5.7. Reading User Input
-#### 5.8. Arithmetic
-#### 5.9. Creating Strings
-#### 5.10. Concatenating (Joining) Strings
-#### 5.11. Converting Numbers into Strings
-#### 5.12. Converting Strings into Numbers
-#### 5.13. Finding the Length of a String
-#### 5.14. Finding the Position of One String Within Another
-#### 5.15. Extracting Part of a String
-#### 5.16. Replacing One String of Characters with Another Within a String
-#### 5.17. Converting a String to Uppercase or Lowercase
-#### 5.18. Running Commands Conditionally
-#### 5.19. Comparing Values
-#### 5.20. Logical Operators
-#### 5.21. Repeating Instructions an Exact Number of Times
-#### 5.22. Repeating Instructions Until Some Condition Changes
-#### 5.23. Breaking Out of a Loop
-#### 5.24. Defining a Function in Python
+### Chapter 5 - Python Basics, Notes:
+- use python3 until you need to use python 2
+- you can edit programs withn Mu it is preinstalled
+- you can use python console in terminal: $ python3 then $ exit() when done
+- to run a python3 program: $ python3 myfile.py
+- assign a value a name using =
+- use print to see the value of a varibale: print(a)
+- in order to ask for user input use input() command
+- Use the +, -, *, and / operators to perform arithmetic
+- use quotes to create a string
+- use + to join strings
+- use str to convert numbers into strings
+- use int or float to convert string into number
+- use len to fins the length of a string
+- use find to find the position of one string in abother string
+- use .upper() adn .lower() to convert the case of a string
+- use the if/else/elif command to run something conditionally
+- to compare two values use <, >, <=, >=, ==, or !=
+- a for loop is used to do something a certain number of times
+- to repeat something until something else happens you cn use a while loop
+- to break out of either loop use the break command
+- defining a function: def function():
+- then to run the function: function()
+
