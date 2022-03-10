@@ -35,7 +35,7 @@ The critical engineering manifesto lists out 10 ideals of what a critical engine
 3. Demonstrate how to perform basic filesystem task over SSH
 - once in you can use cd, ls and basic terminal commands to move and create fiels in pi over ssh
 
-### Tinker Cad Tutorials:
+### Tinker Cad Tips and Tricks:
 - drag and drop
 - use the box in the top left to change viewpoint
 - add a workplane
