@@ -120,7 +120,7 @@ becomes socially and politically palatable."
 #### 6.14. Removing Entries from a Dictionary
 - phone_numbers.pop('Jane')
 #### 6.15. Iterating Over Dictionaries
-- “for name in phone_numbers:
+- for name in phone_numbers:
 - print(name)
 
 
@@ -140,12 +140,30 @@ becomes socially and politically palatable."
 - the RPi only had digital pins but you cna convert them to analog with a converter of sorts
 
 #### 9.2. Keeping Your Raspberry Pi Safe When Using the GPIO connector
-1. List important tips for keeping RPi safe when using GPIO.
+1. List important tips for keeping RPi safe when using GPIO
+- dont touch GPIO with metal when its on
+- dont power with more than 5V
+- conect GND pin to ground always
+- do not put more then 3.3V on any GPIO pin
+- no more than 16mA per output
+- do not draw more than 250mA in total
+
 #### 9.8. Using a Breadboard with Jumper Leads
 1. Connect a breadboard to the RPi with jumpers
+
+![Screen Shot 2022-03-09 at 10 04 59 PM](https://user-images.githubusercontent.com/70282901/157580608-326424fe-30e3-4b66-996f-7a84b960d0d9.png)
+
 #### 9.9. Using a Breadboard with a Pi Cobbler
 1. Explain the benefits of a Pi Cobbler-type connector
+- you can assemble all components on breadboard and just plug in ribbon when ready
+- easier to connect components since its labeled
+- you can solder to it
+- you can transfer to a perma-proto board without having to redesign
 #### 9.10. Using a Raspberry Squid
-1. Describe an RPi Squid
+1. Describe an RPi Squid: an RBG LED that has resistors built in and has color-coded female header leads so that it can plug into the GPIO pins of a RPi
 #### 9.14. Powering a Raspberry Pi with Batteries
-1. Describe considerations when powering a RPi with batteries.
+1. Describe considerations when powering an RPi with batteries
+- only can take 5V so you might need a voltage regulator if you want to use a 9V
+- voltage regulator will heat up alot
+- 600mA max current
+
