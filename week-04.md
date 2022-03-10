@@ -120,7 +120,7 @@ This week we read two stories by Philip K. Dick. The first one was called, Pay f
 
 #### 3.22. Fetching This Book’s Accompanying Code
 - https://github.com/simonmonk/raspberrypi_cookbook_ed3 
-#### 3.23 to 3.240
+#### 3.23 to 3.40
 - Skim or return to the following sections when needed.
 
 
