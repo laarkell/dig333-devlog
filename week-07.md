@@ -31,3 +31,35 @@
 
 ![Screen Shot 2022-03-09 at 3 17 47 PM](https://user-images.githubusercontent.com/70282901/157527801-b57393ba-6e04-4040-816c-217276a6ef2a.png)
 
+## Monk Chapter 10 - Controlling Hardware, Recipes and outcomes:
+
+#### 10.0. Introduction
+#### 10.1. Connecting an LED
+1. Describe the difference between RPi.GPIO and gpiozero libraries.
+- gpiozero is the new method of acessing GPIO pins
+- RPi.GPIO library does not automatically set the GPIO pins to be in a safe input state
+- with RPi.GPIO you must call a cleanup function before exiting
+- without the clenaup fxn pins set to be outputs would remain as outputs after the program has finished
+- you might accidentally short a GPIO output this way
+
+2. Demonstrate a basic "blink" script using both RPi.GPIO and gpiozerio
+- demostrated above!
+
+#### 10.2. Leaving the GPIO Pins in a Safe State
+1. Explain what is meant by "safe input state"
+- this means it will not short any of the components, or the RPi and once finished use ti will reset and not retain it's state
+#### 10.3. Controlling the Brightness of an LED
+1. Use gpiozero to fade an LED in and out.
+- shown above!
+#### 10.4. Switching a High-Power DC Device Using a Transistor
+#### 10.5. Switching a High-Power Device Using a Relay
+- See also: Adafruit RPi 13 - Power Control 
+#### 10.6. Controlling High-Voltage AC Devices
+#### 10.7. Controlling Hardware with Android and Bluetooth
+#### 10.8. Making a User Interface to Turn Things On and Off
+#### 10.9. Making a User Interface to Control PWM Power for LEDs and Motors
+#### 10.10. Changing the Color of an RGB LED
+#### 10.11. Using an Analog Meter as a Display
+- Do this in class
+
+
