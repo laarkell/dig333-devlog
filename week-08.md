@@ -1,36 +1,12 @@
-[<](README.md)
+# Week 08
 
-<!-- COPY / USE THIS TEMPLATE FOR EACH WEEK -->
+### Monk Chapter 11 - Motors:
+- 
 
-
-
-# Week 00
-
-
+### Monk Chapter 12 - Digital Inputs:
+- 
 
 
-## Context
+### Monk Chapter 13 - Sensors:
+- 
 
-Author, Article (year)
-- Summary:
-- Quote:
-- Comment:
-- Question:
-
-
-
-
-
-## Experiments
-
-
-### Experiment #: Name
-
-#### Outcomes & Takeaways
--
-
-#### Comments & Variations
--
-
-#### Questions
--
