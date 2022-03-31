@@ -12,9 +12,12 @@
 
 
 ### Monk Chapter 12 - Digital Inputs:
-- 
-
-
-### Monk Chapter 13 - Sensors:
-- 
-
+- push switch ~ GPIO pin
+  - import button
+  - you can turn on/off
+  - you can toggle something
+- toggle or slide switch allows you to see what its set on by looking at it, but often fragile
+- debouncing a button is important so that it doesnt jump back and forth
+  - use bounce_time to set debouncing of switch or button
+- keypad and mouse~ hat you can add and control
+- GPS ~ hat you can add, used GPIOs
