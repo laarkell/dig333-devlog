@@ -21,3 +21,6 @@
   - use bounce_time to set debouncing of switch or button
 - keypad and mouse~ hat you can add and control
 - GPS ~ hat you can add, used GPIOs
+
+[Final Project Proposal Slides](https://docs.google.com/presentation/d/1EIneGAy3JiBcfAgK7P5TFMXoqEmvOhoRnrpqi6fBKRQ/edit?usp=sharing)
+[Tutorial slides](https://docs.google.com/presentation/d/1DkuRocFw_YWWC5KsnEIsCsaxf4aZFNY1BP93Qqrq1GI/edit?usp=sharing)
