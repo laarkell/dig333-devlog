@@ -22,6 +22,7 @@
 - keypad and mouse~ hat you can add and control
 - GPS ~ hat you can add, used GPIOs
 
+### Links for Project:
 
 [Final Project Proposal Slides](https://docs.google.com/presentation/d/1EIneGAy3JiBcfAgK7P5TFMXoqEmvOhoRnrpqi6fBKRQ/edit?usp=sharing)
 
