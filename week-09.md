@@ -11,6 +11,17 @@
 
 ![Screen Shot 2022-04-06 at 2 33 44 PM](https://user-images.githubusercontent.com/70282901/162044498-3cbb35f0-5bb0-44af-963d-3674bea7d80b.png)
 
+- code to understand what it prints:
+  - 0: "New Moon", 000
+  - 1: "Waxing Crescent", 001
+  - 2: "First Quarter", 010
+  - 3: "Waxing Gibbous", 011
+  - 4: "Full Moon", 100
+  - 5: "Waning Gibbous", 101
+  - 6: "Last Quarter", 110
+  - 7: "Waning Crescent", 111
+   }[int(index) & 7]
+
 - Need to locate rise and set information depending on location
 
 ## Helpful links:
