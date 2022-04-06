@@ -47,4 +47,8 @@
 #### Left to do for this milestone:
 - need to locate moon information from the given python file
 - print information and run in terminal
-- 
+- when this is ran, i get [] and [] without any answers
+
+![Screen Shot 2022-04-05 at 9 50 59 PM](https://user-images.githubusercontent.com/70282901/161879670-d66d19a9-0efe-4f98-bd76-af08a6dc7da4.png)
+
+
