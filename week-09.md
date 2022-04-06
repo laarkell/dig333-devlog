@@ -6,7 +6,7 @@
 
 ![Screen Shot 2022-04-06 at 1 59 52 PM](https://user-images.githubusercontent.com/70282901/162039442-b4fb01e3-f671-4a47-a459-2282a4e4beb3.png)
 
-## Milestone Update:
+## Milestone 1 Update:
 - sucessfully created (found) python code that prints the moon's phase name
 
 ![Screen Shot 2022-04-06 at 2 33 44 PM](https://user-images.githubusercontent.com/70282901/162044498-3cbb35f0-5bb0-44af-963d-3674bea7d80b.png)
@@ -28,3 +28,11 @@
 - http://www.wdisseny.com/lluna/?lang=en
 - https://gist.github.com/miklb/ed145757971096565723
 - https://github.com/Broham/suncalcPy
+
+## Milestone 2 Update: Determine how to control LED matrix and what input code is needed
+- helpful link: https://docs.arduino.cc/built-in-examples/display/RowColumnScanning
+
+#### Plan:
+- write the 8 structures as 2D arrays with X and O s
+- comma delitted with multi lines
+- 
