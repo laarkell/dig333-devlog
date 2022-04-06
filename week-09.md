@@ -27,3 +27,4 @@
 ## Helpful links:
 - http://www.wdisseny.com/lluna/?lang=en
 - https://gist.github.com/miklb/ed145757971096565723
+- https://github.com/Broham/suncalcPy
