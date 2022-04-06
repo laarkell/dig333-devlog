@@ -20,7 +20,6 @@
   - 5: "Waning Gibbous", 101
   - 6: "Last Quarter", 110
   - 7: "Waning Crescent", 111
-   }[int(index) & 7]
 
 - Need to locate rise and set information depending on location
 
