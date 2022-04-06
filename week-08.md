@@ -41,3 +41,8 @@
 - link to GitHub: https://github.com/laarkell/MOONlight/blob/main/getapi.py
 
 ![Screen Shot 2022-04-05 at 9 16 55 PM](https://user-images.githubusercontent.com/70282901/161876370-0e154702-c661-4f84-89fc-a0d42d24639b.png)
+
+
+#### Left to do:
+- need to locate moon information from the given python file
+- 
