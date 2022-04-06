@@ -11,7 +11,8 @@
 
 ![Screen Shot 2022-04-06 at 2 33 44 PM](https://user-images.githubusercontent.com/70282901/162044498-3cbb35f0-5bb0-44af-963d-3674bea7d80b.png)
 
-- code to understand what it prints:
+- successfully converted this informaitno into binary data that prints
+- code to understand what is what:
   - 0: "New Moon", 000
   - 1: "Waxing Crescent", 001
   - 2: "First Quarter", 010
