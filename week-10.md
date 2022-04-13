@@ -2,31 +2,19 @@
 # Week 00
 
 
+## Milestone 2: Determine how to control LED matrix and what input code is needed
 
+#### Plan:
+- write the 8 structures as 2D arrays with X and O s
+- comma delitted with multi lines
+- helpful link: https://docs.arduino.cc/built-in-examples/display/RowColumnScanning
 
-## Context
-
-Author, Article (year)
-- Summary:
-- Quote:
-- Comment:
-- Question:
-
-
-
-
-
-## Experiments
-
-
-### Experiment #: Name
-
-#### Outcomes & Takeaways
--
-
-#### Comments & Variations
--
-
-#### Questions
--
-
+#### New Moon:
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
