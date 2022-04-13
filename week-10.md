@@ -7,9 +7,11 @@
 #### Plan:
 - [x] write the 8 structures with X and O s
   - comma delitted with multi lines
-- [ ] convert the structures in 2D arrays
-- [ ] write code that prints said array depending on an input (in python)
-- [ ] convert code to send high for every X and send low for every 0
+- [x] convert the structures in 2D arrays
+- [x] write code that prints said array depending on an input (in python)
+- [x] convert code to send high for every X and send low for every 0
+
+- code link: https://github.com/laarkell/MOONlight/blob/main/phaseprint.py
 
 - helpful link: https://docs.arduino.cc/built-in-examples/display/RowColumnScanning
 - use diagram of LEDs seen below
