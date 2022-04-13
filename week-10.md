@@ -5,14 +5,16 @@
 ## Milestone 2: Determine how to control LED matrix and what input code is needed
 
 #### Plan:
-- [x] write the 8 structures as 2D arrays with X and O s
+- [x] write the 8 structures with X and O s
   - comma delitted with multi lines
+- [ ] convert the structures in 2D arrays
+- [ ] write code that prints said array depending on an input (in python)
+- [ ] convert code to send high for every X and send low for every 0
+
 - helpful link: https://docs.arduino.cc/built-in-examples/display/RowColumnScanning
-- write code for RPi to print each phase
-  - send high for every X and send low for every 0
 - use diagram of LEDs seen below
-- would I the useful to create a demo matrix to test out?
-- INSTEAD write code that prints out the correct X,0s matrix in order to test if its working
+- would it be useful to create a demo matrix to test out?
+  - INSTEAD write code that prints out the correct X,0s matrix in order to test if its working
 
 ![moon_phases_uppergraphic-scaled](https://user-images.githubusercontent.com/70282901/163080264-dbae0d84-adf0-4f9a-bd00-5c15725f8bac.jpg)
 
