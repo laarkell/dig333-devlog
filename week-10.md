@@ -5,7 +5,7 @@
 ## Milestone 2: Determine how to control LED matrix and what input code is needed
 
 #### Plan:
-- write the 8 structures as 2D arrays with X and O s
+[x] write the 8 structures as 2D arrays with X and O s
 - comma delitted with multi lines
 - helpful link: https://docs.arduino.cc/built-in-examples/display/RowColumnScanning
 - ![moon_phases_uppergraphic-scaled](https://user-images.githubusercontent.com/70282901/163080264-dbae0d84-adf0-4f9a-bd00-5c15725f8bac.jpg)
