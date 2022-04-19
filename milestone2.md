@@ -99,3 +99,8 @@
 
 ### Useful links:
 - https://docs.arduino.cc/built-in-examples/display/RowColumnScanning
+
+### Next milestones:
+- combine all code to take in informaiton and output correct phase 2D array
+- make creative decisions on matix and order parts
+- construct matrix
