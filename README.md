@@ -2,7 +2,7 @@
 # dig333-devlog
 
 
-Week [01](week-01.md) | [02](week-02.md) | [03](week-03.md) | [04](week-04.md) | [05](week-05.md) | [06](week-06.md) | [07](week-07.md) | [08](week-08.md) | [09](week-09.md) | [10](week-10.md) | [Milestone 1](milestone1.md) | [Milestone 2](milestone2.md) | [Milestone 3](milestone3.md) | [Milestone 4](milestone4.md) | [15](week-15.md)
+Week [01](week-01.md) | [02](week-02.md) | [03](week-03.md) | [04](week-04.md) | [05](week-05.md) | [06](week-06.md) | [07](week-07.md) | [08](week-08.md) | [09](week-09.md) | [10](week-10.md) | [Milestone 1](milestone1.md) | [Milestone 2](milestone2.md) | [Milestone 3](milestone3.md) | [Milestone 4](milestone4.md) |
 
 
 ## Instructions
