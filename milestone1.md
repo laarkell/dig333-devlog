@@ -1,5 +1,7 @@
 ## Milestone 1 Update:
 
+### Final project pitch:
+- https://docs.google.com/presentation/d/1EIneGAy3JiBcfAgK7P5TFMXoqEmvOhoRnrpqi6fBKRQ/edit#slide=id.gf39c443cad_0_44
 
 ### Progress:
 - [x] sucessfully created (found) python code that prints the moon's phase name
