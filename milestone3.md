@@ -26,7 +26,7 @@
 - ![Screen Shot 2022-04-20 at 1 04 26 PM](https://user-images.githubusercontent.com/70282901/164284852-e76cdb62-9827-488d-9f32-48a5ff859862.png)
 - https://www.circuitspecialists.com/blog/build-8x8-led-matrix/
 
-### Materials:
+## Materials:
 - [ ] 256 LEDs
 - https://www.amazon.com/CHANZON-PC-59042-Emitting-Assorted-Arduino/dp/B01AUI4VSI/ref=sr_1_5?crid=3BO31A8G4SPG7&keywords=white%2Bled%2Bcircuit&qid=1650334424&sprefix=white%2Bleds%2Bcircuits%2Caps%2C45&sr=8-5&th=1#
 - [ ] 2x 17cmx17cm acryllic (where do I buy?) color?
@@ -46,7 +46,7 @@
 5. connect resistors before anodes and then to power inputs
 6. connect cathodes to ground
 
-## Useful links on how to make Matrix:
+### Useful links on how to make Matrix:
 - https://www.youtube.com/watch?v=evA4Fp1G76E
 - https://www.youtube.com/watch?v=evA4Fp1G76E 
 - https://www.youtube.com/watch?v=D_QBlFIQk-o 
@@ -54,11 +54,11 @@
 - https://www.youtube.com/watch?v=mNqzkDugvSw 
 - https://www.instructables.com/DIY-3D-LED-Cube-With-a-Raspberry-Pi/
 
-## Controlling LED Matrix:
+### Controlling LED Matrix:
 - https://www.youtube.com/watch?v=Degt4HUzWXY
 - 
 
-### Next milestones:
+## Next milestones:
 - Make matrix!
 - convert code to print on matrix instead of an array
 - run code with matrix
