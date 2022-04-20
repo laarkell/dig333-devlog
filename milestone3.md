@@ -17,7 +17,8 @@
 ![Screen Shot 2022-04-19 at 8 42 50 PM](https://user-images.githubusercontent.com/70282901/164124550-4b2bb5a6-9314-42b7-82aa-74c642da7260.png)
 
 ### Materials:
-- [ ] 2 x https://www.amazon.com/CHANZON-PC-59042-Emitting-Assorted-Arduino/dp/B01AUI4VSI/ref=sr_1_5?crid=3BO31A8G4SPG7&keywords=white%2Bled%2Bcircuit&qid=1650334424&sprefix=white%2Bleds%2Bcircuits%2Caps%2C45&sr=8-5&th=1#
+- [ ] 256 LEDs
+- https://www.amazon.com/CHANZON-PC-59042-Emitting-Assorted-Arduino/dp/B01AUI4VSI/ref=sr_1_5?crid=3BO31A8G4SPG7&keywords=white%2Bled%2Bcircuit&qid=1650334424&sprefix=white%2Bleds%2Bcircuits%2Caps%2C45&sr=8-5&th=1#
 - [ ] 2x 17cmx17cm acryllic (where do I buy?) color?
 - [ ] 4x small pieces of acryllic to connect the two slabs
 - [x] RPi
