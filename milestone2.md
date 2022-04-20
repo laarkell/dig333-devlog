@@ -1,19 +1,27 @@
 ## Milestone 2: Determine how to control LED matrix and what input code is needed:
 
 #### Plan:
+- in order to visulaize the arrays and to print out the phases without having the actual LED array, I will be creating 2D arrays with 1s and 0s to demonstrate the phases
+- this will be like a demo-matrix to test out if the code works
+- then ill convert these arrays to the LED matrix array in order to turn on the proper LEDs
+
+
 - [x] write the 8 structures with X and O s
   - comma delitted with multi lines
 - [x] convert the structures in 2D arrays
 - [x] write code that prints said array depending on an input (in python)
 - [x] convert code to send high (1) for every X and send low (0) for every 0
 
-- 2D array code link: https://github.com/laarkell/MOONlight/blob/main/phaseprint.py
+- **2D array code link: https://github.com/laarkell/MOONlight/blob/main/phaseprint.py**
+
+### Notes:
+- decided to change to 16x16 to make it bigger
+  - need to remake 2D arrays for phases 
+- use ASCII generator and import images of moon to determine which are high and low, good way to cut time
+- export and convert informtaion to 2D array
+- use diagram of LEDs seen below
 
 ![Screen Shot 2022-04-18 at 9 36 41 PM](https://user-images.githubusercontent.com/70282901/163903602-b2f1a18c-28b6-49b5-8bcf-70d9adb142c4.png)
-
-- use diagram of LEDs seen below
-- would it be useful to create a demo matrix to test out?
-  - INSTEAD write code that prints out the correct X,0s matrix in order to test if its working
 
 ![moon_phases_uppergraphic-scaled](https://user-images.githubusercontent.com/70282901/163080264-dbae0d84-adf0-4f9a-bd00-5c15725f8bac.jpg)
 
