@@ -5,7 +5,7 @@
   - comma delitted with multi lines
 - [x] convert the structures in 2D arrays
 - [x] write code that prints said array depending on an input (in python)
-- [x] convert code to send high for every X and send low for every 0
+- [x] convert code to send high (1) for every X and send low (0) for every 0
 
 - 2D array code link: https://github.com/laarkell/MOONlight/blob/main/phaseprint.py
 
