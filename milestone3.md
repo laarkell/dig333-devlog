@@ -4,6 +4,7 @@
 - want to use 16x16 LEDS, need to buy 250
 - 2D array (decided not to do 3D because the phases wouldn't be as clear)
 - LEDs, then a layer of acryllic, then i will solder the wires of the LEDs together and connect them underneath, then another layer of acryllic (see image with drawings below)
+- **need two holes in acryllic for each LED to seperate anode and cathode**
 - 2 x 17x17cm acryllic sheets, thickness ~ 0.5cm
 - 4 x small pieces of acryllic to connect the two slabs
 - do I want to convey more information? could use a general LED display in addition to the array
