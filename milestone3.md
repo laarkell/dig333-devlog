@@ -16,6 +16,12 @@
 
 ![Screen Shot 2022-04-19 at 8 42 50 PM](https://user-images.githubusercontent.com/70282901/164124550-4b2bb5a6-9314-42b7-82aa-74c642da7260.png)
 
+### Wiring and Circuit Design:
+- common row cathode arrangement
+- either 16 pin headers or use a shift register to limit the number of inputs
+- ![Screen Shot 2022-04-20 at 1 04 26 PM](https://user-images.githubusercontent.com/70282901/164284852-e76cdb62-9827-488d-9f32-48a5ff859862.png)
+- https://www.circuitspecialists.com/blog/build-8x8-led-matrix/
+
 ### Materials:
 - [ ] 256 LEDs
 - https://www.amazon.com/CHANZON-PC-59042-Emitting-Assorted-Arduino/dp/B01AUI4VSI/ref=sr_1_5?crid=3BO31A8G4SPG7&keywords=white%2Bled%2Bcircuit&qid=1650334424&sprefix=white%2Bleds%2Bcircuits%2Caps%2C45&sr=8-5&th=1#
