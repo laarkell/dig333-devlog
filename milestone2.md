@@ -25,6 +25,14 @@
 
 ![moon_phases_uppergraphic-scaled](https://user-images.githubusercontent.com/70282901/163080264-dbae0d84-adf0-4f9a-bd00-5c15725f8bac.jpg)
 
+### Using ASCII to generate phases instead of manualy drawing and entering them:
+- https://www.dcode.fr/binary-image
+- ![Screen Shot 2022-04-20 at 3 45 42 PM](https://user-images.githubusercontent.com/70282901/164310692-54f52892-bd34-4710-b767-09d2668127a7.png)
+- not exactly what I want, but close!
+
+
+## OLD matrices used for phases:
+
 #### New Moon:
 ##### 0 0 0 0 0 0 0 0
 ##### 0 0 0 0 0 0 0 0
