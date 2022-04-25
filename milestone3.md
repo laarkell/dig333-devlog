@@ -28,7 +28,7 @@
 - https://www.circuitspecialists.com/blog/build-8x8-led-matrix/
 
 ## Materials:
-- [ ] 256 LEDs
+- [x] 256 LEDs
 - https://www.amazon.com/CHANZON-PC-59042-Emitting-Assorted-Arduino/dp/B01AUI4VSI/ref=sr_1_5?crid=3BO31A8G4SPG7&keywords=white%2Bled%2Bcircuit&qid=1650334424&sprefix=white%2Bleds%2Bcircuits%2Caps%2C45&sr=8-5&th=1#
 - [ ] 2x 17cmx17cm acryllic (where do I buy?) color?
 - [ ] 4x small pieces of acryllic to connect the two slabs
