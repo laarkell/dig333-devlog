@@ -30,14 +30,26 @@
 ## Materials:
 - [x] 256 LEDs
 - https://www.amazon.com/CHANZON-PC-59042-Emitting-Assorted-Arduino/dp/B01AUI4VSI/ref=sr_1_5?crid=3BO31A8G4SPG7&keywords=white%2Bled%2Bcircuit&qid=1650334424&sprefix=white%2Bleds%2Bcircuits%2Caps%2C45&sr=8-5&th=1#
-- [ ] 2x 17cmx17cm acryllic (where do I buy?) color?
-- [ ] 4x small pieces of acryllic to connect the two slabs
+- [x] 2x 17cmx17cm acryllic (from makerspace, orange)
+- [x] 4x small pieces acryllic
 - [ ] 16 x 200 ohm resistors
-- [ ] 3 x shift register 74HC595
+- [x] 3 x shift register 74HC595
 - [x] RPi
-- [x] solder materials
-- [ ] heat shrink tubes?
-- [ ] solderable perf board?
+- [x] solder materials - VAC
+- [x] heat shrink tubes - VAC
+
+### Construction:
+- took longer than expected (drilled 512 holes in acryllic
+- remaining steps:
+  - wire LEDS
+  - test matrix
+  - glue together acryllic to make box
+
+![IMG_9348](https://user-images.githubusercontent.com/70282901/165626591-f312945a-1a87-4bfc-8073-82ec74e2ee76.jpg)
+
+![67271316986__C4FC436F-BFA0-49F3-9BE2-2A041FBF260D](https://user-images.githubusercontent.com/70282901/165626604-33679150-903b-4056-916a-2088107184c9.jpg)
+
+
 
 ### Steps to create matrix:
 1. insert LEDs with all the cathodes and anodes aligning
