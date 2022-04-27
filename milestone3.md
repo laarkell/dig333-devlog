@@ -45,10 +45,8 @@
   - test matrix
   - glue together acryllic to make box
 
-![IMG_9348](https://user-images.githubusercontent.com/70282901/165626591-f312945a-1a87-4bfc-8073-82ec74e2ee76.jpg)
-
-![67271316986__C4FC436F-BFA0-49F3-9BE2-2A041FBF260D](https://user-images.githubusercontent.com/70282901/165626604-33679150-903b-4056-916a-2088107184c9.jpg)
-
+![Screen Shot 2022-04-27 at 4 37 59 PM](https://user-images.githubusercontent.com/70282901/165626834-92047d3e-eb11-4dad-a853-926f25813961.png)
+![Screen Shot 2022-04-27 at 4 37 28 PM](https://user-images.githubusercontent.com/70282901/165626839-e892120c-ef78-4b98-a04a-0bc77cd4d45e.png)
 
 
 ### Steps to create matrix:
