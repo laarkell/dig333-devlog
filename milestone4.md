@@ -16,6 +16,7 @@
 - shift register: 1 input, 8 outputs
 - use 1 GPIO pin as output from code, send this into the input for first shift register
 - into GPIO send row 0 [0] then row i+1 [i+1] until i = 7
+- Code Link: https://github.com/laarkell/MOONlight/blob/main/moonlight.py
 
 ![Screen Shot 2022-05-04 at 3 48 29 PM](https://user-images.githubusercontent.com/70282901/166814535-600c1153-6246-4580-b779-3dececbbb4c7.png)
 
