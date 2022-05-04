@@ -17,7 +17,12 @@
 - shift register: 1 input, 8 outputs
 - use 1 GPIO pin as output from code, send this into the input for first shift register
 - into GPIO send row 0 [0] then row i+1 [i+1] until i = 7
-- is there a way to send a matrix through a GPIO pin
+
+### Construction reminders:
+- check LEDs before connecting!
+- need 220 ohm resistor inbetween all row outputs and matrix
+- common cathode design!
+- 5V input 
 
 ### Useful links:
 - ** https://peppe8o.com/use-a-8x8-led-matrix-with-raspberry-pi-and-python/ **
