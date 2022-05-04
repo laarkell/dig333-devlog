@@ -20,5 +20,6 @@
 - is there a way to send a matrix through a GPIO pin
 
 ### Useful links:
+- ** https://peppe8o.com/use-a-8x8-led-matrix-with-raspberry-pi-and-python/ **
 - https://www.youtube.com/watch?v=Degt4HUzWXY
 - 
