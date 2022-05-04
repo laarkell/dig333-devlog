@@ -12,6 +12,13 @@
 
 ![Screen Shot 2022-05-04 at 1 41 16 PM](https://user-images.githubusercontent.com/70282901/166747428-5ee73e59-b904-4f17-9769-d85d0379aa78.png)
 
+
+### Coding Plan:
+- shift register: 1 input, 8 outputs
+- use 1 GPIO pin as output from code, send this into the input for first shift register
+- into GPIO send row 0 [0] then row i+1 [i+1] until i = 7
+- is there a way to send a matrix through a GPIO pin
+
 ### Useful links:
 - https://www.youtube.com/watch?v=Degt4HUzWXY
 - 
