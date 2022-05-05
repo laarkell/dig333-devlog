@@ -22,6 +22,9 @@
 
 ![Screen Shot 2022-05-04 at 3 50 56 PM](https://user-images.githubusercontent.com/70282901/166814898-e1404702-01f0-49c4-910b-89c5a460df38.png)
 
+![download](https://user-images.githubusercontent.com/70282901/166994284-76d8ee7b-d01e-4d9e-8a54-a884eb46108f.jpg)
+
+
 ### Construction reminders:
 - check LEDs before connecting!
 - need 220 ohm resistor inbetween all row outputs and matrix
