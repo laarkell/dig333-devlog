@@ -27,6 +27,9 @@
 - need 220 ohm resistor inbetween all row outputs and matrix
 - common cathode design!
 - 5V input 
+- bottom wires are short which is cathode
+- top wiresare long and called anode
+- 
 
 ### Useful links:
 - ** https://peppe8o.com/use-a-8x8-led-matrix-with-raspberry-pi-and-python/ **
