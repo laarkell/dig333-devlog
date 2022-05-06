@@ -12,8 +12,6 @@
 
 ![Screen Shot 2022-05-04 at 1 41 16 PM](https://user-images.githubusercontent.com/70282901/166747428-5ee73e59-b904-4f17-9769-d85d0379aa78.png)
 
-![download](https://user-images.githubusercontent.com/70282901/166994284-76d8ee7b-d01e-4d9e-8a54-a884eb46108f.jpg)
-
 https://user-images.githubusercontent.com/70282901/167204323-94bc5eb6-4d26-418d-8ba7-7d3ea8674e64.mov
 
 
@@ -27,6 +25,8 @@ https://user-images.githubusercontent.com/70282901/167204323-94bc5eb6-4d26-418d-
 ![Screen Shot 2022-05-04 at 3 48 29 PM](https://user-images.githubusercontent.com/70282901/166814535-600c1153-6246-4580-b779-3dececbbb4c7.png)
 
 ![Screen Shot 2022-05-04 at 3 50 56 PM](https://user-images.githubusercontent.com/70282901/166814898-e1404702-01f0-49c4-910b-89c5a460df38.png)
+
+![download](https://user-images.githubusercontent.com/70282901/166994284-76d8ee7b-d01e-4d9e-8a54-a884eb46108f.jpg)
 
 
 ### Construction reminders:
