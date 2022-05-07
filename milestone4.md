@@ -15,6 +15,9 @@
 https://user-images.githubusercontent.com/70282901/167204323-94bc5eb6-4d26-418d-8ba7-7d3ea8674e64.mov
 
 
+![IMG_9473](https://user-images.githubusercontent.com/70282901/167275302-ccd504d6-1ab9-4797-a420-b7fff09db0b6.jpg)
+
+![IMG_9472](https://user-images.githubusercontent.com/70282901/167275304-e900ab71-91b0-42e2-acb4-765c9cbb1b6a.jpg)
 
 ### Coding Plan:
 - shift register: 1 input, 8 outputs
