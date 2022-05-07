@@ -14,10 +14,10 @@
 
 https://user-images.githubusercontent.com/70282901/167204323-94bc5eb6-4d26-418d-8ba7-7d3ea8674e64.mov
 
+![Screen Shot 2022-05-07 at 7 33 54 PM](https://user-images.githubusercontent.com/70282901/167275337-28babdce-1fcf-4147-9719-cb36cf0213be.png)
 
-![IMG_9473](https://user-images.githubusercontent.com/70282901/167275302-ccd504d6-1ab9-4797-a420-b7fff09db0b6.jpg)
+![Screen Shot 2022-05-07 at 7 33 45 PM](https://user-images.githubusercontent.com/70282901/167275339-a4eee124-7069-4c0f-8171-bdf762fc3a0e.png)
 
-![IMG_9472](https://user-images.githubusercontent.com/70282901/167275304-e900ab71-91b0-42e2-acb4-765c9cbb1b6a.jpg)
 
 ### Coding Plan:
 - shift register: 1 input, 8 outputs
