@@ -24,12 +24,15 @@ https://user-images.githubusercontent.com/70282901/167204323-94bc5eb6-4d26-418d-
 - use 1 GPIO pin as output from code, send this into the input for first shift register
 - into GPIO send row 0 [0] then row i+1 [i+1] until i = 7
 - Code Link: https://github.com/laarkell/MOONlight/blob/main/moonlight.py
+- use CRON TAB
 
 ![Screen Shot 2022-05-04 at 3 48 29 PM](https://user-images.githubusercontent.com/70282901/166814535-600c1153-6246-4580-b779-3dececbbb4c7.png)
 
 ![Screen Shot 2022-05-04 at 3 50 56 PM](https://user-images.githubusercontent.com/70282901/166814898-e1404702-01f0-49c4-910b-89c5a460df38.png)
 
 ![download](https://user-images.githubusercontent.com/70282901/166994284-76d8ee7b-d01e-4d9e-8a54-a884eb46108f.jpg)
+
+![Screen Shot 2022-05-08 at 6 38 52 PM](https://user-images.githubusercontent.com/70282901/167320840-30158280-5aff-4f31-86ea-b1aa1ab8d9eb.png)
 
 
 ### Construction reminders:
