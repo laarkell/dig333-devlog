@@ -21,4 +21,5 @@ I am very happy with the outcome of my final project. Appearance wise, it is exa
 
 
 - Code file: https://github.com/laarkell/MOONlight/blob/main/moonrn.py
+- Similar circuit diagram (but with a 16x16 and 4 shift-registers:https://peppe8o.com/wp-content/uploads/2021/05/Raspberry-PI-8x8-led-matrix-wiring-diagram.jpg 
 - Proposal: https://docs.google.com/presentation/d/1EIneGAy3JiBcfAgK7P5TFMXoqEmvOhoRnrpqi6fBKRQ/edit#slide=id.gf39c443cad_0_44
