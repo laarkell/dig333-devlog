@@ -16,6 +16,10 @@ I am very happy with the outcome of my final project. Appearance wise, it is exa
 
 ![Screen Shot 2022-05-08 at 7 59 02 PM](https://user-images.githubusercontent.com/70282901/167321178-3f4ffb2e-3752-4bbf-a517-ebf945cc6b59.png)
 
+![Screen Shot 2022-05-09 at 2 14 37 PM](https://user-images.githubusercontent.com/70282901/167471756-c510a752-2670-4d24-9fd3-07c98d08dd23.png)
+
+![Screen Shot 2022-05-09 at 2 14 32 PM](https://user-images.githubusercontent.com/70282901/167471773-36e6922b-f084-459e-aea2-759496e638af.png)
+
 ![Screen Shot 2022-05-08 at 7 59 09 PM](https://user-images.githubusercontent.com/70282901/167321230-dae6f48a-7d85-4c4c-9890-0fa0ea246d57.png)
 
 ![Screen Shot 2022-05-07 at 10 04 13 PM](https://user-images.githubusercontent.com/70282901/167278706-d0b55ef4-61c5-46ce-a024-3b1e26245538.png)
